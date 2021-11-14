@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomohiro Yamano.
-- 👀 I'm a senior of faculty of Agriculture at Kyushu University. My major is cell biology, molecular biology and bioinfomatics. I research functional foods with brain function-improving effects and brain-gut axis.
+- 👀 I'm a senior of faculty of Agriculture, Kyushu University. My major is cell biology, molecular biology and bioinfomatics. I research functional foods with brain function-improving effects and brain-gut axis.
 - 🌱 I’m interested in not only biology but also Data Science. I currently learning Machine Learning, DL, IR, and NLP. Now, I am doing a joint research in Matsuo Lab., the University of Tokyo. 
 - 💞️ I’m looking to become a kaggle expert.
 - 📫 How to reach me ...
